@@ -26,7 +26,7 @@ export default function Home() {
         <div className="bg-white border-b border-border px-4 py-2 text-center">
           <h1 className="text-lg font-bold text-foreground">
             Super Pomodoro
-            <span className="text-sm font-normal text-muted-foreground ml-1">by Intelligy Art's</span>
+            <span className="text-sm font-normal text-muted-foreground ml-1">by Bastos brothers s.a</span>
           </h1>
         </div>
 

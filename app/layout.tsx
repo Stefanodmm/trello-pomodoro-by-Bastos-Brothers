@@ -7,7 +7,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Super Pomodoro',
   description: 'Herramienta de productividad para cumplir tareas en tiempo récord',
-  generator: 'Intelligy Art\'s',
+  generator: 'Bastos brothers s.a',
 }
 
 export default function RootLayout({
